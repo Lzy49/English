@@ -12,6 +12,10 @@
 
 - [æ] bad fat pat lad mat sat -> 大嘴巴 
 
-- [ɛ] her person learn bird word fur
+- [ɜ] her person learn bird word fur
+
+- [ə] about balloon taken problem family pencil memory freedom
 
 ## 后元音
+
+- [u:] too food loose music news student 
