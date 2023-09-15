@@ -14,10 +14,12 @@
 
 - [ɜ:] her person learn bird word fur
 
-- [ə] about balloon taken problem family pencil memory freedom
+- [ə] about balloon taken problem family memory freedom
 
 ## 后元音
 
 - [u:] too food loose music news student 
 
-- [ʊ] book look good took bush would
+- [ʊ] book look good took bush would -> O 的时候少撅嘴
+
+- [ʌ] but hut must sun ton done  -> 闭一点嘴的啊
