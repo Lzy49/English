@@ -23,3 +23,5 @@
 - [ʊ] book look good took bush would -> O 的时候少撅嘴
 
 - [ʌ] but hut must sun ton done  -> 闭一点嘴的啊
+
+- [ɔː] caught bought law saw door four
