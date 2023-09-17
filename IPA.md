@@ -8,7 +8,7 @@
 
 - [e] bed get pet let met set  -> 单纯的 [e] 的音
 
-- [æ] bad fat pat lad mat sat -> 大嘴巴 
+- [æ] bad fat pat lad mat sat -> 大嘴巴
 
 ## 中元音
 
@@ -18,10 +18,12 @@
 
 ## 后元音
 
-- [u:] too food loose music news student 
+- [u:] too food loose music news student
 
 - [ʊ] book look good took bush would -> O 的时候少撅嘴
 
 - [ʌ] but hut must sun ton done  -> 闭一点嘴的啊
 
 - [ɔː] caught bought law saw door four
+  
+- [ɑː] father fast glass car park mark -> 有点"啊"
