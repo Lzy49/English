@@ -1,6 +1,6 @@
 // 生词本 - 青版
 const NOTE_VARCYAN = {
-  en: 'attributes',
+  en: 'attribute',
   cn: '属性',
   brief: 'attrs'
 }
