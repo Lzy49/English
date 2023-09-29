@@ -1,6 +1,11 @@
 // 生词本 - 青版
-const NOTE_VARCYAN = {
+const NOTE_VARCYAN = [{
   en: 'attribute',
   cn: '属性',
   brief: 'attrs'
+},
+{
+  en: 'shallow',
+  cn: '浅'
 }
+]
